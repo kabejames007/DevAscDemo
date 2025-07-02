@@ -3,5 +3,5 @@
 def main():
     print("This is a python script")
 
-if__name__ == "__main__":
+if__name__ == "__main__": # type: ignore
     main()
