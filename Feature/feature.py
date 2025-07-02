@@ -4,3 +4,4 @@ def greet_user():
     
 if __name__ == "__main__":
     greet_user()
+    print("This is a python script is for feature")
